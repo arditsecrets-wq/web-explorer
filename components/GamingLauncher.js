@@ -1,4 +1,3 @@
-
 import React from 'react';
 import htm from 'htm';
 import { Gamepad2, Zap, ExternalLink, Info, ShieldOff } from 'lucide-react';

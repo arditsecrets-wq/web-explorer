@@ -1,4 +1,3 @@
-
 import React from 'react';
 import htm from 'htm';
 import { Shield, Ghost, Menu } from 'lucide-react';

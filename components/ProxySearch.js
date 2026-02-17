@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import htm from 'htm';
 import { Search, Globe, ShieldCheck, AlertCircle, Copy, Check } from 'lucide-react';

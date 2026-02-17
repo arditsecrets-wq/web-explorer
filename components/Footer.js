@@ -1,4 +1,3 @@
-
 import React from 'react';
 import htm from 'htm';
 import { Shield, Github, Twitter, Cpu } from 'lucide-react';

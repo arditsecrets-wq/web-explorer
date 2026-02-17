@@ -1,4 +1,3 @@
-
 import React from 'react';
 import htm from 'htm';
 import { Ghost, ShieldAlert, Cpu, Monitor } from 'lucide-react';

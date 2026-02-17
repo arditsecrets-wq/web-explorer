@@ -1,4 +1,3 @@
-
 export const launchInStealthMode = (url) => {
   const isSelf = !url || url === window.location.href || url === '/' || url === window.location.origin;
   const newWin = window.open('about:blank', '_blank');
