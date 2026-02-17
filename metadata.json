@@ -1,5 +1,8 @@
 {
   "name": "StealthCloud Privacy Portal",
   "description": "A high-performance web portal for cloud gaming and privacy cloaking. Features about:blank stealth mode, a privacy-focused proxy search, and quick-launch integration for cloud gaming platforms like Roblox.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
 }
