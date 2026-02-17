@@ -3,11 +3,12 @@
   "imports": {
     "react": "https://unpkg.com",
     "react-dom": "https://unpkg.com",
-    "react-dom/client": "https://esm.sh",
     "htm": "https://unpkg.com",
     "react-dom/": "https://esm.sh/react-dom@^19.2.4/",
     "lucide-react": "https://esm.sh/lucide-react@^0.564.0"
   }
 }
 </script>
-
+<!-- Load React/ReactDOM globally as fallback to fix the MIME error -->
+<script src="https://unpkg.com"></script>
+<script src="https://unpkg.com"></script>
